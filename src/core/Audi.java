@@ -1,4 +1,4 @@
 package core;
 
-public class Audi {
+public class Audi extends Car{
 }
